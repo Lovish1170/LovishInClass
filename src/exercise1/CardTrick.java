@@ -56,6 +56,7 @@ public class CardTrick {
         // Implement your printInfo() method logic here.
         // This method should print information about the matched card.
         System.out.println("Congratulations! You found a match!");
-        System.out.println("my name is lovish);
+        System.out.println("my name is lovish");
+        // done
     }
 }
